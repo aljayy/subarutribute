@@ -48,8 +48,14 @@ img {
   margin-right: auto;
 }
 
+#headline {
+  margin: 50px 0;
+  text-align: center;
+}
+
 ul {
   text-align: left;
   max-width: 550px;
   line-height: 1.6;
+  margin: 0 auto 50px auto;
 }
