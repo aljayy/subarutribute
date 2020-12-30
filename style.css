@@ -75,3 +75,7 @@ ul {
   line-height: 1.6;
   margin: 0 auto 50px auto;
 }
+
+li {
+  margin: 16px 0; 
+}
