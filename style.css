@@ -13,11 +13,20 @@ h1 {
   font-size: 3rem;
   margin-bottom: 0;
   color: #333;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
 }
 
 h2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
   font-size: 1.5rem;
   color: #333;
+}
+
+p {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 300;
 }
 
 a {
@@ -48,12 +57,19 @@ img {
   margin-right: auto;
 }
 
+#img-caption {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 300;
+}
+
 #headline {
   margin: 50px 0;
   text-align: center;
 }
 
 ul {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 300;
   text-align: left;
   max-width: 550px;
   line-height: 1.6;
