@@ -5,6 +5,19 @@ html {
 body {
   text-align: center;
   background: #C0C0C0;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 0;
+  color: #333;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #333;
 }
 
 #main {
@@ -14,19 +27,15 @@ body {
 
 img {
   max-width: 100%;
-  display: block;
   height: auto;
-  margin: 0 auto;
+  display: block;
 }
 
 #img-div {
-  background: #3F3F3F;
+  background: rgb(51, 68, 78);
   padding: 10px;
-  line-height: 1.6;
+  border-radius: 10px;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
 }
-
-ul {
-  margin: 200px;
-  text-align: left;
-}
-
