@@ -24,6 +24,12 @@ h2 {
   color: #333;
 }
 
+h4 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  color: #333;
+}
+
 p {
   font-family: "Work Sans", sans-serif;
   font-weight: 300;
