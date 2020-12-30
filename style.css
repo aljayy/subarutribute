@@ -20,6 +20,14 @@ h2 {
   color: #333;
 }
 
+a {
+  color: #477ca7;
+}
+
+a:visited {
+  color: #74638f;
+}
+
 #main {
   background: #C0C0C0;
   border-radius: 10px;
@@ -38,4 +46,10 @@ img {
   width: 800px;
   margin-left: auto;
   margin-right: auto;
+}
+
+ul {
+  text-align: left;
+  max-width: 550px;
+  line-height: 1.6;
 }
