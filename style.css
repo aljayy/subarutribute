@@ -4,6 +4,7 @@ html {
 
 body {
   text-align: center;
+  background: #C0C0C0;
 }
 
 #main {
@@ -17,3 +18,15 @@ img {
   height: auto;
   margin: 0 auto;
 }
+
+#img-div {
+  background: #3F3F3F;
+  padding: 10px;
+  line-height: 1.6;
+}
+
+ul {
+  margin: 200px;
+  text-align: left;
+}
+
